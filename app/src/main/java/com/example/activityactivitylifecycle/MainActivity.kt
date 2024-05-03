@@ -60,7 +60,7 @@ class MainActivity : AppCompatActivity() {
                 dialog.dismiss()
             }
 
-        builder.setTitle("Emergency")
+        builder.setTitle("Emergency Exit")
 
         builder.setCancelable(true)
 
