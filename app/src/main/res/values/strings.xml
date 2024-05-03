@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Activity  &amp; Activity LifeCycle</string>
+    <string name="move_to_sec_activity">Move to 2nd Activity</string>
+    <string name="tv_main_activity">Main Activity</string>
+    <string name="tv_sec_activity">2nd Activity</string>
+    <string name="move_to_third_activity">Move to Third Activity</string>
+    <string name="move_to_fourth_activity">Move to Fourth Activity</string>
+    <string name="move_to_fifth_activity">Move to Fifth Activity</string>
+    <string name="tv_third_activity">3rd Activity</string>
+    <string name="tv_fourth_activity">4th Activity</string>
+    <string name="tv_fifth_activity">5th Activity</string>
+
+
+</resources>
